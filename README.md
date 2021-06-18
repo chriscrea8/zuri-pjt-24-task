@@ -1,10 +1,8 @@
 # E-Care-FE-pjt-24
 
-
-<h2><bold>Project Documentation</bold></h2>
-
 <h2>Live link:</h2> https://chriscrea8.github.io/zuri-pjt-24-task/
 
+<h2><bold>Project Documentation</bold></h2>
 https://docs.google.com/document/d/1C5Uk8uD8io_2x1oDvDqur01PlW3cBxS7Di5sXFfLB-g/edit
 
 
